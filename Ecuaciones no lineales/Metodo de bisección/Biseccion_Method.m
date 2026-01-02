@@ -81,3 +81,6 @@ end
 %Ejecutar= Biseccion_Method(func, x_lower,x_upper,error,max_iteration)
 
 %Resultado de todas las variables asignadas
+
+%La aplicación de este metodo se hace mediante el teorema de Bolzano, donde 
+%explica que si hay dos numeros con signos opuestos en unintervalo cerrado, siempre hay una raiz 

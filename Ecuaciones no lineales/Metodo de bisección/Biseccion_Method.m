@@ -60,7 +60,7 @@ result = table(iteration',values',errors','VariableNames',{'Iteraciones' 'Xr' 'E
 end
 
 %**************Explicación******************
-% Para la aplicacion de este modelo de optimización es necesario declarar
+% Para la aplicacion de este metodo es necesario declarar
 % las variables presentadas al inicio, un ejemplo que se puede escribir en
 % la ventana de comando es la siguiente:
 %Syms x (solo si la función contiene x, esta puede ser reemplazada por

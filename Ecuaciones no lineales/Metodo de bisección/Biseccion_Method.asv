@@ -78,6 +78,4 @@ end
 %max_iteration= Valor del numero de iteraciones, es IMPORTANTE SABER QUE ES
 %POSIBLE QUE MIENTRAS MAS ITERACIONES, MENOS ERROR.
 
-%Ejecutar= Biseccion_Method(func, x_lower,x_upper,error,max_iteration)
-
-%Resultado de todas las variables asignadas
+%Ejecutar

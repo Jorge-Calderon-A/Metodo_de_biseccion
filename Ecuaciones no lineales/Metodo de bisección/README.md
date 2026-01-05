@@ -23,6 +23,10 @@ El sistema encontro una raiz y esto es meramente coincidencia, ya que por el teo
 
 ### Ejemplo 2:
 
+Un analisis mas complejo es el de encontrar la función $5*x+4^{x}-3+4*x-2^{x+1}-5+10*x-x^{10}+4*x-12.5*x$.
+
+Se realiza la bisección en el algoritmo con 
+
 
 
   

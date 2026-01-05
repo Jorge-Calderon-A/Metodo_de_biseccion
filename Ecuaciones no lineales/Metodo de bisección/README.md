@@ -6,4 +6,10 @@ La respuesta es si, el metodo de bisección es un metodo clasico y ciertamente u
 
 Ejemplo 1:
 
-Se tiene $f(x)= 2x-2^x$
+Se tiene $f(x)= 2x-2^x$ y se necesita encontrar la raiz de dicha función (en terminos simples y directos se aplicara un detalle muy explicativo para toda persona):
+
+  La grafica de la función es:
+
+  <img width="422" height="252" alt="2x" src="https://github.com/user-attachments/assets/3caf5faf-7ac6-4901-ac21-b877a02201f1" />
+
+  

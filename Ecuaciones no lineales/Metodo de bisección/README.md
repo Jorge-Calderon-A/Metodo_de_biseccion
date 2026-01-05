@@ -6,4 +6,4 @@ La respuesta es si, el metodo de bisección es un metodo clasico y ciertamente u
 
 Ejemplo 1:
 
-Se tiene f(x)= 2x-2^x
+Se tiene $f(x)= 2x-2^x$

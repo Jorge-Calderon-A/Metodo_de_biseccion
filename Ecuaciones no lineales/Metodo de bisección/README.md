@@ -12,6 +12,6 @@ Se tiene $f(x)= 2x-2^x$ y se necesita encontrar la raiz de dicha función (en te
 
   <img width="422" height="252" alt="2x" src="https://github.com/user-attachments/assets/3caf5faf-7ac6-4901-ac21-b877a02201f1" />
   
-Con esta resolución grafica, podemos deducir que mis raices estan en 1 y 2, sin embargo, podemos tener una aproximación con un error muy pequeño a la raiz, vamos a aplicar el metodo de bisección para la resolución con los valores de $x_upper=4 y x_lower=0$, cabe destacar que la función grafica no se conoce.
+Con esta resolución grafica, podemos deducir que mis raices estan en 1 y 2, sin embargo, podemos tener una aproximación con un error muy pequeño a la raiz, vamos a aplicar el metodo de bisección para la resolución con los valores de $x_{upper}=4$ y $x_{lower}=0$, cabe destacar que la función grafica no se conoce.
 
   

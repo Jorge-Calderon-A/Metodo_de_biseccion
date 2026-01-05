@@ -17,7 +17,7 @@ Con esta resolución grafica, podemos deducir que mis raices estan en 1 y 2, sin
 
 <img width="383" height="379" alt="x lower" src="https://github.com/user-attachments/assets/fb5e6bf5-0592-4d79-8114-f0ea55841e93" />
 
-El sistema encontro una raiz y esto es meramente coincidencia, ya que por el teorema de Bolzano, se encontro la bisección de la función y la raiz es 2, el resultado con un error de $10^15$ en la iteración 43 de 100 estimadas es de 1.99999999999994 y error de 5.6843418860808e-14 
+El sistema encontro una raiz y esto es meramente coincidencia, ya que por el teorema de Bolzano, se encontro la bisección de la función y la raiz es 2, el resultado con un error de $10^{-15}$ en la iteración 43 de 100 estimadas es de 1.99999999999994 y error de 5.6843418860808e-14 
 
 <img width="333" height="181" alt="image" src="https://github.com/user-attachments/assets/e5d2580f-39af-4a1d-b6eb-72a88bc84d48" />
 

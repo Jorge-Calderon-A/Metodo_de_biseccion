@@ -11,3 +11,5 @@ Esto te hace madurar mentalmente los metodos numericos.
 
 Bienvenido a mis proyectos de metodos numericos, en cada carpeta hay archivos .mlx y .m, algunos estaran como codigo en el repositorio y en archivo, si te interesa y apasiona la ingenieria toma un vistazo.
 
+**El uso del software debe ser Matlab, los métodos se encuentran en la carpetas adjuntas**
+
